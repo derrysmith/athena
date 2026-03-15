@@ -1,0 +1,6 @@
+@ApiBaseAddress = http://localhost:5027
+
+GET {{ApiBaseAddress}}/health
+Accept: application/json
+
+###

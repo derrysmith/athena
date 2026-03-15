@@ -1,0 +1,20 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Athena.Api.Core.Application/Athena.Api.Core.Application.csproj" />
+    <Project Path="src/Athena.Api.Core.Domain/Athena.Api.Core.Domain.csproj" />
+    <Project Path="src/Athena.Api.Host/Athena.Api.Host.csproj" />
+    <Project Path="src/Athena.Api.Infrastructure.Data/Athena.Api.Infrastructure.Data.csproj" />
+    <Project Path="src/Athena.Api.Infrastructure/Athena.Api.Infrastructure.csproj" />
+    <Project Path="src/Athena.Api.Worker.Database/Athena.Api.Worker.Database.csproj" />
+    <Project Path="src/Athena.Api.Worker.Services/Athena.Api.Worker.Services.csproj" />
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="test/Athena.Tests.Api.Core.Application/Athena.Tests.Api.Core.Application.csproj" />
+    <Project Path="test/Athena.Tests.Api.Core.Domain/Athena.Tests.Api.Core.Domain.csproj" />
+    <Project Path="test/Athena.Tests.Api.Host/Athena.Tests.Api.Host.csproj" />
+    <Project Path="test/Athena.Tests.Api.Infrastructure.Data/Athena.Tests.Api.Infrastructure.Data.csproj" />
+    <Project Path="test/Athena.Tests.Api.Infrastructure/Athena.Tests.Api.Infrastructure.csproj" />
+    <Project Path="test/Athena.Tests.Api.Worker.Database/Athena.Tests.Api.Worker.Database.csproj" />
+    <Project Path="test/Athena.Tests.Api.Worker.Services/Athena.Tests.Api.Worker.Services.csproj" />
+  </Folder>
+</Solution>

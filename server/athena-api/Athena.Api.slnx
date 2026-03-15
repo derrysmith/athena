@@ -7,6 +7,8 @@
     <Project Path="src/Athena.Api.Infrastructure/Athena.Api.Infrastructure.csproj" />
     <Project Path="src/Athena.Api.Worker.Database/Athena.Api.Worker.Database.csproj" />
     <Project Path="src/Athena.Api.Worker.Services/Athena.Api.Worker.Services.csproj" />
+  </Folder>
+  <Folder Name="/test/">
     <Project Path="test/Athena.Tests.Api.Core.Application/Athena.Tests.Api.Core.Application.csproj" />
     <Project Path="test/Athena.Tests.Api.Core.Domain/Athena.Tests.Api.Core.Domain.csproj" />
     <Project Path="test/Athena.Tests.Api.Host/Athena.Tests.Api.Host.csproj" />

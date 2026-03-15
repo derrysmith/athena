@@ -4,11 +4,11 @@ Project-specific instructions for the Athena API service. Read the root `AGENTS.
 
 ## Solution
 
-`Athena.Api.slnx` — build and test from this directory:
+`athena-api.slnx` — build and test from this directory:
 
 ```sh
-dotnet build Athena.Api.slnx
-dotnet test Athena.Api.slnx
+dotnet build athena-api.slnx
+dotnet test athena-api.slnx
 ```
 
 ## Project Structure
@@ -31,7 +31,7 @@ server/athena-api/
 │   ├── Athena.Tests.Api.Infrastructure.Data/
 │   ├── Athena.Tests.Api.Worker.Database/
 │   └── Athena.Tests.Api.Worker.Services/
-└── Athena.Api.slnx
+└── athena-api.slnx
 ```
 
 ## Dependency Direction
